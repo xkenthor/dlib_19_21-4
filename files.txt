@@ -1,0 +1,11 @@
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/_dlib_pybind11.py
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/_dlib_pybind11.cpython-38-x86_64-linux-gnu.so
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/__pycache__/_dlib_pybind11.cpython-38.pyc
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/EGG-INFO/PKG-INFO
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/EGG-INFO/SOURCES.txt
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/EGG-INFO/native_libs.txt
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/EGG-INFO/not-zip-safe
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/EGG-INFO/dependency_links.txt
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/EGG-INFO/top_level.txt
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/dlib/__init__.py
+/home/blackbird71/anaconda3/envs/dfi/lib/python3.8/site-packages/dlib-19.21.99-py3.8-linux-x86_64.egg/dlib/__pycache__/__init__.cpython-38.pyc
