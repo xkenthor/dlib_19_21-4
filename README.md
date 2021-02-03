@@ -3,16 +3,16 @@ This is a fixed version of the dlib library source for own needs.
 
 ## Dependencies
 
-#### General
+### General
 - gcc & g++ version 8 and below.
 
-#### With CUDA support
+### With CUDA support
 - cuda
 - cudnn
 - cublas
 
 ## Building & Installation
-#### Preparing
+### Preparing
 Before building, add following lines to **setup.py** file:
 ````PYTHON
 import sys
@@ -20,7 +20,7 @@ os.environ["CC"] = "gcc-{your_version}"
 ````
 Notice that **{your_version}** must be manually changed to your gcc compiler version number.
 
-#### With CUDA support:
+### With CUDA support:
 If you have another path of **CMAKE_PREFIX_PATH** and **CUDA_HOST_COMPILER** options, you must change it.
 ````BASH
 mkdir build && cd build
